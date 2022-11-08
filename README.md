@@ -122,7 +122,7 @@ If the checks don't appear or if the checks are stuck in progress, there's a few
 - Try making a commit on this branch. Our workflow is triggered with a `push` event, and committing to this branch will result in a new `push`.
 - Edit the workflow file on GitHub and ensure there are no red lines indicating a syntax problem.
 
-### :keyboard: Activity: Fix the test
+### :keyboard: Activity: Fix the test :)
 
 1. Update the code in the `ci` branch to get the test to pass. You need to look something like this:
    ```markdown
